@@ -1,4 +1,14 @@
 //https://leetcode.com/problems/generate-parentheses/
+//Sample Input:
+//3
+//
+//Sample Output:
+//"((()))"
+//"(()())"
+//"(())()"
+//"()(())"
+//"()()()"
+
 #include <bits/stdc++.h>
 
 using namespace std;
