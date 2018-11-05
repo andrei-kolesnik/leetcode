@@ -4,6 +4,8 @@ Solutions for the practice problems on LeetCode.
 
 #### [#7. Reverse Integer](https://leetcode.com/problems/reverse-integer/) :: [[C++ STL]](007.Reverse-Integer.STL) {easy}
 
+#### [#9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) :: [[C++ STL]](009.Palindrome-Number.STL) {easy}
+
 #### [#13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) :: [[C++ STL]](013.Roman-to-Integer.STL) {easy}
 
 #### [#14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) :: [[C++ STL]](014.Longest-Common-Prefix.STL) {easy}
