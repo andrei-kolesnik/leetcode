@@ -2,6 +2,8 @@
 Solutions for the practice problems on LeetCode.
 
 
+#### [#2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) :: [[C++ STL]](002.Add-Two-Numbers.STL) {medium}
+
 #### [#7. Reverse Integer](https://leetcode.com/problems/reverse-integer/) :: [[C++ STL]](007.Reverse-Integer.STL) {easy}
 
 #### [#9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) :: [[C++ STL]](009.Palindrome-Number.STL) {easy}
