@@ -6,6 +6,8 @@ Solutions for the practice problems on LeetCode.
 
 #### [#3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) :: [[C++ STL]](003.Longest-Substring.STL) {medium}
 
+#### [#5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) :: [[C++ STL]](005.Longest-Palindromic-Substring.STL) {medium}
+
 #### [#7. Reverse Integer](https://leetcode.com/problems/reverse-integer/) :: [[C++ STL]](007.Reverse-Integer.STL) {easy}
 
 #### [#9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) :: [[C++ STL]](009.Palindrome-Number.STL) {easy}
