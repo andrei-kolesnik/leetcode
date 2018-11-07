@@ -8,6 +8,8 @@ Solutions for the practice problems on LeetCode.
 
 #### [#5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) :: [[C++ STL]](005.Longest-Palindromic-Substring.STL) {medium}
 
+#### [#6. Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) :: [[C++ STL]](006.Zigzag-Conversion.STL) {medium}
+
 #### [#7. Reverse Integer](https://leetcode.com/problems/reverse-integer/) :: [[C++ STL]](007.Reverse-Integer.STL) {easy}
 
 #### [#9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) :: [[C++ STL]](009.Palindrome-Number.STL) {easy}
