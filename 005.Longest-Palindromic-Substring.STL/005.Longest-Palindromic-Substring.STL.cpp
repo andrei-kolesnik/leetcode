@@ -18,7 +18,7 @@ using namespace std;
 string longestPalindrome(string s) {
 
 	if (!s.size()) return "";
-	string result = s.substr(0, 1);
+	string result(1, s[0]);
 
 	int i, j, k, l, m;
 	for (i = 0; i < s.size(); i++)
