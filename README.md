@@ -12,6 +12,8 @@ Solutions for the practice problems on LeetCode.
 
 #### [#7. Reverse Integer](https://leetcode.com/problems/reverse-integer/) :: [[C++ STL]](007.Reverse-Integer.STL) {easy}
 
+#### [#8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) :: [[C++ STL]](008.String-to-Integer.STL) {medium}
+
 #### [#9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) :: [[C++ STL]](009.Palindrome-Number.STL) {easy}
 
 #### [#13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) :: [[C++ STL]](013.Roman-to-Integer.STL) {easy}
