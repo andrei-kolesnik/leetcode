@@ -1,6 +1,7 @@
 # LeetCode Problems
 Solutions for the practice problems on LeetCode.
 
+## C++
 
 #### [#2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) :: [[C++ STL]](002.Add-Two-Numbers.STL) {medium}
 
@@ -25,3 +26,7 @@ Solutions for the practice problems on LeetCode.
 #### [#21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) :: [[C++ STL]](021.Merge-Two-Sorted-Lists.STL) {easy}
 
 #### [#22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) :: [[C++ STL]](022.Generate-Parentheses.STL) {medium}
+
+## SQL
+
+### [#175. Combine Two Tables](https://leetcode.com/problems/combine-two-tables) :: [[SQL]](SQL/175.Combine-Two-Tables.SQL) {easy}
