@@ -30,3 +30,6 @@ Solutions for the practice problems on LeetCode.
 ## SQL
 
 ### [#175. Combine Two Tables](https://leetcode.com/problems/combine-two-tables) :: [[SQL]](sql/175.Combine-Two-Tables.SQL) {easy}
+
+### [#176. Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) :: [[SQL]](sql/176.Second-Highest-Salary.SQL) {easy}
+
