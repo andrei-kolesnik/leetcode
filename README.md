@@ -29,4 +29,4 @@ Solutions for the practice problems on LeetCode.
 
 ## SQL
 
-### [#175. Combine Two Tables](https://leetcode.com/problems/combine-two-tables) :: [[SQL]](SQL/175.Combine-Two-Tables.SQL) {easy}
+### [#175. Combine Two Tables](https://leetcode.com/problems/combine-two-tables) :: [[SQL]](sql/175.Combine-Two-Tables.SQL) {easy}
