@@ -17,6 +17,8 @@ Solutions for the practice problems on LeetCode.
 
 #### [#9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) :: [[C++ STL]](009.Palindrome-Number.STL) {easy}
 
+#### [#11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) :: [[C++ STL]](011.Container-With-Most-Water.STL) {medium}
+
 #### [#13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) :: [[C++ STL]](013.Roman-to-Integer.STL) {easy}
 
 #### [#14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) :: [[C++ STL]](014.Longest-Common-Prefix.STL) {easy}
@@ -32,4 +34,6 @@ Solutions for the practice problems on LeetCode.
 ### [#175. Combine Two Tables](https://leetcode.com/problems/combine-two-tables) :: [[SQL]](sql/175.Combine-Two-Tables.SQL) {easy}
 
 ### [#176. Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) :: [[SQL]](sql/176.Second-Highest-Salary.SQL) {easy}
+
+### [#177. Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) :: [[SQL]](sql/177.Nth-Highest-Salary.SQL) {easy}
 
