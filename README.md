@@ -13,9 +13,11 @@ Solutions for the practice problems on LeetCode.
 
 #### [#7. Reverse Integer](https://leetcode.com/problems/reverse-integer/) :: [[C++ STL]](007.Reverse-Integer.STL) {easy}
 
-#### [#8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) :: [[C++ STL]](008.String-to-Integer.STL) {medium}
+#### [#8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) :: [[C++ STL]](008.String-to-Integer.STL) {medium}	
 
 #### [#9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) :: [[C++ STL]](009.Palindrome-Number.STL) {easy}
+
+#### [#10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) :: [[C++ STL]](010.Regular-Expression-Matching.STL) {hard}
 
 #### [#11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) :: [[C++ STL]](011.Container-With-Most-Water.STL) {medium}
 
@@ -31,9 +33,9 @@ Solutions for the practice problems on LeetCode.
 
 ## SQL
 
-### [#175. Combine Two Tables](https://leetcode.com/problems/combine-two-tables) :: [[SQL]](sql/175.Combine-Two-Tables.SQL) {easy}
+#### [#175. Combine Two Tables](https://leetcode.com/problems/combine-two-tables) :: [[SQL]](sql/175.Combine-Two-Tables.SQL) {easy}
 
-### [#176. Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) :: [[SQL]](sql/176.Second-Highest-Salary.SQL) {easy}
+#### [#176. Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) :: [[SQL]](sql/176.Second-Highest-Salary.SQL) {easy}
 
-### [#177. Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) :: [[SQL]](sql/177.Nth-Highest-Salary.SQL) {easy}
+#### [#177. Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) :: [[SQL]](sql/177.Nth-Highest-Salary.SQL) {easy}
 
