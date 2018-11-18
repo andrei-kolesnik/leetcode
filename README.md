@@ -37,9 +37,10 @@ Solutions for the practice problems on LeetCode.
 
 ## SQL
 
-#### [175. Combine Two Tables](https://leetcode.com/problems/combine-two-tables) :: [[SQL]](sql/175.Combine-Two-Tables.SQL) {easy}
+#### [175. Combine Two Tables](https://leetcode.com/problems/combine-two-tables) :: [[MySQL]](sql/175.Combine-Two-Tables.SQL) {easy}
 
-#### [176. Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) :: [[SQL]](sql/176.Second-Highest-Salary.SQL) {easy}
+#### [176. Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) :: [[MySQL]](sql/176.Second-Highest-Salary.SQL) {easy}
 
-#### [177. Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) :: [[SQL]](sql/177.Nth-Highest-Salary.SQL) {easy}
+#### [177. Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) :: [[MS SQL]](sql/177.Nth-Highest-Salary.SQL) {medium}
 
+#### [178. Rank Scores](https://leetcode.com/problems/rank-scores/) :: [[MS SQL]](178.Rank-Scores.SQL) {medium}
