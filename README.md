@@ -44,3 +44,5 @@ Solutions for the practice problems on LeetCode.
 #### [177. Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) :: [[MS SQL]](sql/177.Nth-Highest-Salary.SQL) {medium}
 
 #### [178. Rank Scores](https://leetcode.com/problems/rank-scores/) :: [[MS SQL]](sql/178.Rank-Scores.SQL) {medium}
+
+#### [180. Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/) :: [[MS SQL]](sql/180.Consecutive-Numbers.SQL) {medium}
