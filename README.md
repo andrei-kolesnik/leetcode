@@ -46,3 +46,7 @@ Solutions for the practice problems on LeetCode.
 #### [178. Rank Scores](https://leetcode.com/problems/rank-scores/) :: [[MS SQL]](sql/178.Rank-Scores.SQL) {medium}
 
 #### [180. Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/) :: [[MS SQL]](sql/180.Consecutive-Numbers.SQL) {medium}
+
+#### [181. Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) :: [[MS SQL]](sql/181.Employees-Earning-More-Than-Their-Managers.SQL) {easy}
+
+#### [182. Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)  :: [[MS SQL]](sql/182.Duplicate-Emails.SQL) {easy}
