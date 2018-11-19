@@ -50,3 +50,5 @@ Solutions for the practice problems on LeetCode.
 #### [181. Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) :: [[MS SQL]](sql/181.Employees-Earning-More-Than-Their-Managers.SQL) {easy}
 
 #### [182. Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)  :: [[MS SQL]](sql/182.Duplicate-Emails.SQL) {easy}
+
+#### [183. Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) :: [[MS SQL]](sql/183.Customers-WhoNeverOrder.SQL)
