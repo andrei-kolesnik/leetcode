@@ -51,4 +51,6 @@ Solutions for the practice problems on LeetCode.
 
 #### [182. Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)  :: [[MS SQL]](sql/182.Duplicate-Emails.SQL) {easy}
 
-#### [183. Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) :: [[MS SQL]](sql/183.Customers-WhoNeverOrder.SQL)
+#### [183. Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) :: [[MS SQL]](sql/183.Customers-WhoNeverOrder.SQL) {easy}
+
+#### [184. Department Highest Salary](https://leetcode.com/problems/department-highest-salary/) :: [[MS SQL]](sql/184.Department-Highest-Salary.SQL) {medium}
