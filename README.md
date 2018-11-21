@@ -55,4 +55,6 @@ Solutions for the practice problems on LeetCode.
 
 #### [184. Department Highest Salary](https://leetcode.com/problems/department-highest-salary/) :: [[MS SQL]](sql/184.Department-Highest-Salary.SQL) {medium}
 
-#### [196. Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)  :: [[MySQL]](sql/196.Delete-Duplicate-Emails.SQL)
+#### [196. Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)  :: [[MySQL]](sql/196.Delete-Duplicate-Emails.SQL) {easy}
+
+#### [197. Rising Temperature](https://leetcode.com/problems/rising-temperature/) :: [[MS SQL]](sql/197.Rising-Temperature.SQL) {easy}
