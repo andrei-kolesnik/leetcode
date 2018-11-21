@@ -31,7 +31,7 @@ void PrintList(ListNode* l)
 
 ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
 	ListNode *result = NULL, *end = NULL, *p;
-	int pass = 0, x1, x2, sum;
+	int carry = 0, x1, x2, sum;
 	while (1)
 	{
 		if (!l1)
@@ -52,17 +52,17 @@ ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
 				l2 = l2->next;
 			}
 		}
-		sum = x1 + x2 + pass;
+		sum = x1 + x2 + carry;
 		p = new ListNode(sum % 10);
-		pass = sum / 10;
+		carry = sum / 10;
 		if (!result) end = result = p;
 		else end->next = p;
 		end = p;
 	}
 
-	if (pass)
+	if (carry)
 	{
-		p = new ListNode(pass);
+		p = new ListNode(carry);
 		end->next = p;
 	}
 

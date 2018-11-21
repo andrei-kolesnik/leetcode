@@ -1,6 +1,23 @@
 /*
 LeetCode 197. Rising Temperature
 https://leetcode.com/problems/rising-temperature/
+
+Sample Input:
++---------+------------------+------------------+
+| Id(INT) | RecordDate(DATE) | Temperature(INT) |
++---------+------------------+------------------+
+|       1 |       2015-01-01 |               10 |
+|       2 |       2015-01-02 |               25 |
+|       3 |       2015-01-03 |               20 |
+|       4 |       2015-01-04 |               30 |
++---------+------------------+------------------+
+Sample Output:
++----+
+| Id |
++----+
+|  2 |
+|  4 |
++----+
 */
 select 
 	W2.Id
