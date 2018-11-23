@@ -38,3 +38,4 @@ Solutions for the practice problems on LeetCode.
 |185|[Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/) | [[MS SQL]](sql/185.Department-Top-Three-Salaries.SQL) |hard|
 |196|[Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)  | [[MySQL]](sql/196.Delete-Duplicate-Emails.SQL) |easy|
 |197|[Rising Temperature](https://leetcode.com/problems/rising-temperature/) | [[MS SQL]](sql/197.Rising-Temperature.SQL) |easy|
+|262|[Trips and Users](https://leetcode.com/problems/trips-and-users/) | [[MS SQL]](sql/262.Trips-and-Users.SQL) |hard|
