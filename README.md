@@ -18,6 +18,7 @@ Solutions for the practice problems on LeetCode.
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [[C++ STL]](013.Roman-to-Integer.STL) |easy|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [[C++ STL]](014.Longest-Common-Prefix.STL) |easy|
 |15|[3Sum](https://leetcode.com/problems/3sum/) | [[C++ STL]](015.3Sum.STL) |medium|
+|16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [[C++ STL]](016.3Sum-Closest.STL) |medium|
 |20|[Valid Parantheses](https://leetcode.com/problems/valid-parentheses/) | [[C++ STL]](020.Valid-Parantheses.STL) |easy|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [[C++ STL]](021.Merge-Two-Sorted-Lists.STL) |easy|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [[C++ STL]](022.Generate-Parentheses.STL) |medium|
