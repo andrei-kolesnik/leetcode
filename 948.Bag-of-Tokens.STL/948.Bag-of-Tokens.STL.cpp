@@ -42,28 +42,28 @@ int bagOfTokensScore(vector<int>& tokens, int P) {
 	score sc{P, 0};
 	sort(tokens.begin(), tokens.end());
 
-//	cout << "ini:" << setw(3) << sc.pwr << " " << sc.pts << endl;
+	cout << "0:" << setw(3) << sc.pwr << " " << sc.pts << endl;
 	int toks = tokens.size(), left = 0, right = toks - 1;
 	while (left <= right)
 	{
-		if (tokens[left] <= sc.pwr)
+		if (tokens[left] <= sc.pwr) // use the least expensive token for a point if we can
 		{
 			sc.pwr -= tokens[left];
 			sc.pts++;
 			left++;
 		}
-		else if (sc.pts)
+		else if (sc.pts) // otherwise use a point to get the maximum power token
 		{
 			sc.pwr += tokens[right];
 			sc.pts--;
 			right--;
 		}
 		else break;
-//		cout << "lll:" << setw(3) << sc.pwr << " " << sc.pts << " " << setw(3) << endl;
+		cout << "1:" << setw(3) << sc.pwr << " " << sc.pts << " " << setw(3) << endl;
 	}
 		
 	right++;
-	while (right < toks)
+	while (right < toks) //use all the power we have left to get points
 	{
 		if (tokens[right] <= sc.pwr)
 		{
@@ -72,8 +72,9 @@ int bagOfTokensScore(vector<int>& tokens, int P) {
 			right++;
 		}
 		else break;
-//		cout << "rrr:" << setw(3) << sc.pwr << " " << sc.pts << " " << setw(3) << endl;
+		cout << "2:" << setw(3) << sc.pwr << " " << sc.pts << " " << setw(3) << endl;
 	}
+	cout << "3:" << setw(3) << sc.pwr << " " << sc.pts << " " << setw(3) << endl;
 	return sc.pts;
 }
 
