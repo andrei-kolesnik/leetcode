@@ -24,6 +24,7 @@ Solutions for the practice problems on LeetCode.
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [[C++ STL]](022.Generate-Parentheses.STL) |medium|
 |945*|[Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/) | [[C++ STL]](945.Minimum-Increment-to-Make-Array-Unique.STL) |medium|
 |946*|[Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) | [[C++ STL]](946.Validate-Stack-Sequences.STL) |medium|
+|948*|[Bag of Tokens](https://leetcode.com/contest/weekly-contest-112/problems/bag-of-tokens/) | [[C++ STL]](948.Bag-of-Tokens.STL) |medium|
 
 * premium problems
 
