@@ -42,7 +42,7 @@ int bagOfTokensScore(vector<int>& tokens, int P) {
 	score sc{P, 0};
 	sort(tokens.begin(), tokens.end());
 
-	cout << "0:" << setw(3) << sc.pwr << " " << sc.pts << endl;
+//	cout << "0:" << setw(3) << sc.pwr << " " << sc.pts << endl;
 	int toks = tokens.size(), left = 0, right = toks - 1;
 	while (left <= right)
 	{
@@ -59,7 +59,7 @@ int bagOfTokensScore(vector<int>& tokens, int P) {
 			right--;
 		}
 		else break;
-		cout << "1:" << setw(3) << sc.pwr << " " << sc.pts << " " << setw(3) << endl;
+//		cout << "1:" << setw(3) << sc.pwr << " " << sc.pts << " " << setw(3) << endl;
 	}
 		
 	right++;
@@ -72,9 +72,9 @@ int bagOfTokensScore(vector<int>& tokens, int P) {
 			right++;
 		}
 		else break;
-		cout << "2:" << setw(3) << sc.pwr << " " << sc.pts << " " << setw(3) << endl;
+//		cout << "2:" << setw(3) << sc.pwr << " " << sc.pts << " " << setw(3) << endl;
 	}
-	cout << "3:" << setw(3) << sc.pwr << " " << sc.pts << " " << setw(3) << endl;
+//	cout << "3:" << setw(3) << sc.pwr << " " << sc.pts << " " << setw(3) << endl;
 	return sc.pts;
 }
 
