@@ -28,6 +28,12 @@ Solutions for the practice problems on LeetCode.
 
 * premium problems
 
+## Python
+
+| # | Problem Title / Link to LeetCode | Solution | Difficulty |
+|---:| :--- | :---: | :---: |
+|17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [[Python]](Python/017.Letter-Combinations-of-a-Phone-Number.py) |medium|
+
 ## SQL
 
 | # | Problem Title / Link to LeetCode | Solution | Difficulty |
