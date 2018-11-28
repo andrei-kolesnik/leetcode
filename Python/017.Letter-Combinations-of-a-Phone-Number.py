@@ -27,6 +27,7 @@ class Solution:
         tail_list = self.letterCombinations(digits[1:])
         return [h+t for h in head_list for t in tail_list]
 
-input = '21'
+input = '23'
 sol = Solution()
 print (sol.letterCombinations(input))
+# ['ad', 'ae', 'af', 'bd', 'be', 'bf', 'cd', 'ce', 'cf']
