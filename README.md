@@ -51,3 +51,4 @@ Solutions for the practice problems on LeetCode.
 |196|[Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)  | [[MySQL]](sql/196.Delete-Duplicate-Emails.SQL) |easy|
 |197|[Rising Temperature](https://leetcode.com/problems/rising-temperature/) | [[MS SQL]](sql/197.Rising-Temperature.SQL) |easy|
 |262|[Trips and Users](https://leetcode.com/problems/trips-and-users/) | [[MS SQL]](sql/262.Trips-and-Users.SQL) |hard|
+|596|[Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/) | [[MS SQL]](sql/596.Classes-More-Than-5-Students.SQL) |easy|
