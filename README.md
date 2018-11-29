@@ -19,6 +19,7 @@ Solutions for the practice problems on LeetCode.
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [[C++ STL]](014.Longest-Common-Prefix.STL) |easy|
 |15|[3Sum](https://leetcode.com/problems/3sum/) | [[C++ STL]](015.3Sum.STL) |medium|
 |16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [[C++ STL]](016.3Sum-Closest.STL) |medium|
+|19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [[C++ STL]](019.Remove-Nth-Node-From-End-of-List.STL) |medium|
 |20|[Valid Parantheses](https://leetcode.com/problems/valid-parentheses/) | [[C++ STL]](020.Valid-Parantheses.STL) |easy|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [[C++ STL]](021.Merge-Two-Sorted-Lists.STL) |easy|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [[C++ STL]](022.Generate-Parentheses.STL) |medium|
@@ -52,3 +53,4 @@ Solutions for the practice problems on LeetCode.
 |197|[Rising Temperature](https://leetcode.com/problems/rising-temperature/) | [[MS SQL]](sql/197.Rising-Temperature.SQL) |easy|
 |262|[Trips and Users](https://leetcode.com/problems/trips-and-users/) | [[MS SQL]](sql/262.Trips-and-Users.SQL) |hard|
 |596|[Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/) | [[MS SQL]](sql/596.Classes-More-Than-5-Students.SQL) |easy|
+|620|[Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | [[MS SQL]](sql/620.Not-BoringMovies.SQL) |easy|
