@@ -23,6 +23,7 @@ Solutions for the practice problems on LeetCode.
 |20|[Valid Parantheses](https://leetcode.com/problems/valid-parentheses/) | [[C++ STL]](020.Valid-Parantheses.STL) |easy|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [[C++ STL]](021.Merge-Two-Sorted-Lists.STL) |easy|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [[C++ STL]](022.Generate-Parentheses.STL) |medium|
+|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [[C++ STL]](026.Remove-Duplicates-from-Sorted-Array.STL) |easy|
 |945*|[Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/) | [[C++ STL]](945.Minimum-Increment-to-Make-Array-Unique.STL) |medium|
 |946*|[Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) | [[C++ STL]](946.Validate-Stack-Sequences.STL) |medium|
 |948*|[Bag of Tokens](https://leetcode.com/contest/weekly-contest-112/problems/bag-of-tokens/) | [[C++ STL]](948.Bag-of-Tokens.STL) |medium|
