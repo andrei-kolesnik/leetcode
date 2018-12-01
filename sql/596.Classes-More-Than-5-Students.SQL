@@ -9,7 +9,7 @@ create table dbo.Courses (
 	class varchar(16) not null
 );
 
-truncate table Courses;
+--truncate table Courses;
 insert into Courses (student, class)
 values
 ('A', 'Math'),       

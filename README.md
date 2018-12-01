@@ -55,3 +55,4 @@ Solutions for the practice problems on LeetCode.
 |262|[Trips and Users](https://leetcode.com/problems/trips-and-users/) | [[MS SQL]](sql/262.Trips-and-Users.SQL) |hard|
 |596|[Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/) | [[MS SQL]](sql/596.Classes-More-Than-5-Students.SQL) |easy|
 |620|[Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | [[MS SQL]](sql/620.Not-BoringMovies.SQL) |easy|
+|626|[Exchange Seats](https://leetcode.com/problems/exchange-seats/) | [[MS SQL]](sql/626.Exchange-Seats.SQL) |medium|
