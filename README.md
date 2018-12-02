@@ -37,6 +37,7 @@ Solutions for the practice problems on LeetCode.
 | # | Problem Title / Link to LeetCode | Solution | Difficulty |
 |---:| :--- | :---: | :---: |
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Python](Python/017.Letter-Combinations-of-a-Phone-Number.py) |medium|
+|950|[Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | [Python](Python/950.Reveal-Cards-In-Increasing-Order.py) |medium|
 
 ## SQL
 
