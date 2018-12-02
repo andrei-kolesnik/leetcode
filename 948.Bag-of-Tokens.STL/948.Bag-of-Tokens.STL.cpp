@@ -1,6 +1,6 @@
 /*
 LeetCode 948. Bag of Tokens
-https://leetcode.com/contest/weekly-contest-112/problems/bag-of-tokens/
+https://leetcode.com/problems/bag-of-tokens/
 
 You have an initial power P, an initial score of 0 points, and a bag of tokens.
 
@@ -17,7 +17,7 @@ Output: 0
 Example 2:
 Input: tokens = [100,200], P = 150
 Output: 1
-
+cccccc
 Example 3:
 Input: tokens = [100,200,300,400], P = 200
 Output: 2
