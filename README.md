@@ -37,7 +37,8 @@ Solutions for the practice problems on LeetCode.
 | # | Problem Title / Link to LeetCode | Solution | Difficulty |
 |---:| :--- | :---: | :---: |
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Python](Python/017.Letter-Combinations-of-a-Phone-Number.py) |medium|
-|950|[Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | [Python](Python/950.Reveal-Cards-In-Increasing-Order.py) |medium|
+|929|[Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | [Python](Python/929.Unique-Email-Addresses.py) |easy|
+|950*|[Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | [Python](Python/950.Reveal-Cards-In-Increasing-Order.py) |medium|
 
 ## SQL
 
@@ -57,5 +58,6 @@ Solutions for the practice problems on LeetCode.
 |197|[Rising Temperature](https://leetcode.com/problems/rising-temperature/) | [MS SQL](sql/197.Rising-Temperature.SQL) |easy|
 |262|[Trips and Users](https://leetcode.com/problems/trips-and-users/) | [MS SQL](sql/262.Trips-and-Users.SQL) |hard|
 |596|[Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/) | [MS SQL](sql/596.Classes-More-Than-5-Students.SQL) |easy|
+|601|[Human Traffic of Stadium](https://leetcode.com/problems/human-traffic-of-stadium/) | [MS SQL](sql/601.Human-Traffic-of-Stadium.SQL) |hard|
 |620|[Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | [MS SQL](sql/620.Not-BoringMovies.SQL) |easy|
 |626|[Exchange Seats](https://leetcode.com/problems/exchange-seats/) | [MS SQL](sql/626.Exchange-Seats.SQL) |medium|
