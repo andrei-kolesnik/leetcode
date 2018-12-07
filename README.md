@@ -42,6 +42,7 @@ Solutions for the practice problems on LeetCode.
 | # | Problem Title / Link to LeetCode | Solution | Difficulty |
 |---:| :--- | :---: | :---: |
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Python](Python/017.Letter-Combinations-of-a-Phone-Number.py) |medium|
+|31|[Next Permutation](https://leetcode.com/problems/next-permutation/) | [Python](Python/031.Next-Permutation.py) |medium|
 |929|[Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | [Python](Python/929.Unique-Email-Addresses.py) |easy|
 |950*|[Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | [Python](Python/950.Reveal-Cards-In-Increasing-Order.py) |medium|
 
