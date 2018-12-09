@@ -35,6 +35,7 @@ Solutions for the practice problems on LeetCode.
 |948*|[Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/) | [C++ STL](948.Bag-of-Tokens.STL) |medium|
 |949*|[Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/) | [C++ STL](949.Largest-Time-for-Given-Digits.STL) |easy|
 |951*|[Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/) | [C++ STL](951.Flip-Equivalent-Binary-Trees) |medium|
+|954*|[Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/) | [C++ STL](954.Array-of-Doubled-Pairs.STL) |medium|
 
 * premium problems from weekly contests
 
