@@ -46,6 +46,7 @@ Solutions for the practice problems on LeetCode.
 |---:| :--- | :---: | :---: |
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Python](Python/017.Letter-Combinations-of-a-Phone-Number.py) |medium|
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/) | [Python](Python/031.Next-Permutation.py) |medium|
+|263|[Ugly Number](https://leetcode.com/problems/ugly-number/) | [Python](Python/263.Ugly-Number.py) |easy|
 |929|[Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | [Python](Python/929.Unique-Email-Addresses.py) |easy|
 |950*|[Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | [Python](Python/950.Reveal-Cards-In-Increasing-Order.py) |medium|
 |953*|[Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/) | [Python](Python/953.Verifying-an-Alien-Dictionary.py) |easy|
