@@ -33,6 +33,7 @@ Solutions for the practice problems on LeetCode.
 |563|[Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/) | [C++ STL](563.Binary-Tree-Tilt.STL) |easy|
 |655|[Print Binary Tree](https://leetcode.com/problems/print-binary-tree/) | [C++ STL](655.Print-Binary-Tree.STL) |medium|
 |783|[Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/) | [C++ STL](783.Minimum-Distance-Between-BST-Nodes.STL) |easy|
+|860|[Lemonade Change](https://leetcode.com/problems/lemonade-change/) | [C++ STL](860.Lemonade-Change.STL) |easy|
 |938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | [C++ STL](938.Range-Sum-of-BST.STL) |easy|
 |945*|[Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/) | [C++ STL](945.Minimum-Increment-to-Make-Array-Unique.STL) |medium|
 |946*|[Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) | [C++ STL](946.Validate-Stack-Sequences.STL) |medium|
