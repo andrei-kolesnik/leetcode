@@ -27,6 +27,7 @@ Solutions for the practice problems on LeetCode.
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [C++ STL](023.Merge-k-Sorted-Lists.STL) |hard|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C++ STL](026.Remove-Duplicates-from-Sorted-Array.STL) |easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/) | [C++ STL](027.Remove-Element.STL) |easy|
+|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [C++ STL](053.Maximum-Subarray.STL) |easy|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [C++ STL](094.Binary-Tree-Inorder-Traversal.STL) |medium|
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [C++ STL](128.Longest-Consecutive-Sequence.STL) |hard|
 |538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | [C++ STL](538.Convert-BST-to-Greater-Tree.STL) |easy|
