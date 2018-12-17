@@ -44,6 +44,7 @@ Solutions for the practice problems on LeetCode.
 |951*|[Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/) | [C++ STL](951.Flip-Equivalent-Binary-Trees) |medium|
 |954*|[Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/) | [C++ STL](954.Array-of-Doubled-Pairs.STL) |medium|
 |957*|[Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/) | [C++ STL](957.Prison-Cells-After-N-Days.STL) |medium|
+|958*|[Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) | [C++ STL](958.Check-Completeness-of-a-Binary-Tree.STL) |medium|
 
 * premium problems from weekly contests
 
