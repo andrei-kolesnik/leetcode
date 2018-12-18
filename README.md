@@ -30,6 +30,7 @@ Solutions for the practice problems on LeetCode.
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [C++ STL](053.Maximum-Subarray.STL) |easy|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [C++ STL](094.Binary-Tree-Inorder-Traversal.STL) |medium|
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [C++ STL](128.Longest-Consecutive-Sequence.STL) |hard|
+|204|[Count Primes](https://leetcode.com/problems/count-primes/) | [C++ STL](204.Count-Primes.STL) |easy|
 |538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | [C++ STL](538.Convert-BST-to-Greater-Tree.STL) |easy|
 |563|[Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/) | [C++ STL](563.Binary-Tree-Tilt.STL) |easy|
 |655|[Print Binary Tree](https://leetcode.com/problems/print-binary-tree/) | [C++ STL](655.Print-Binary-Tree.STL) |medium|
