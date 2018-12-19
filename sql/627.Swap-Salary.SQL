@@ -30,10 +30,11 @@ VALUES
 (1, 'A', 'm', 2500),
 (2, 'B', 'f', 1500),
 (3, 'C', 'm', 5500),
-(4, 'D', 'f',  500);
+(4, 'D', 'f',  500),
+(5, 'E', 'n',  500);
 */
 SELECT * FROM salary;
 
 UPDATE salary 
 SET sex = (CASE sex WHEN 'm' THEN 'f' WHEN 'f' THEN 'm' END)
-
+WHERE sex IN ('m', 'f');
