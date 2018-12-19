@@ -83,3 +83,4 @@ Solutions for the practice problems on LeetCode.
 |601|[Human Traffic of Stadium](https://leetcode.com/problems/human-traffic-of-stadium/) | [MS SQL](sql/601.Human-Traffic-of-Stadium.SQL) |hard|
 |620|[Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | [MS SQL](sql/620.Not-BoringMovies.SQL) |easy|
 |626|[Exchange Seats](https://leetcode.com/problems/exchange-seats/) | [MS SQL](sql/626.Exchange-Seats.SQL) |medium|
+|627|[Swap Salary](https://leetcode.com/problems/swap-salary/) | [MS SQL](sql/627.Swap-Salary.SQL) |easy|
