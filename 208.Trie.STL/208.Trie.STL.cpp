@@ -37,6 +37,16 @@ private:
 		return partial || current->WholeWord;
 	}
 
+	void doPrint(TrieNode* p, string prefix = "") {
+		if (!p) return;
+		for (auto letter : p->letters)
+		{
+			if (letter.second->WholeWord)
+				cout << prefix << letter.first << endl;
+			doPrint(letter.second, prefix + letter.first);
+		}
+	}
+
 public:
 	/** Initialize your data structure here. */
 	Trie() {
@@ -70,6 +80,11 @@ public:
 	bool startsWith(string prefix) {
 		return doSearch(prefix, true);
 	}
+
+	/** Print all the words */
+	void print() {
+		doPrint(root, "");
+	}
 };
 
 int main()
@@ -82,7 +97,7 @@ int main()
 	cout << trie.startsWith("app") << endl; // returns true
 	trie.insert("app");
 	cout << trie.search("app") << endl;     // returns true
-
+	trie.print();
 	system("pause");
 	return 0;
 }
