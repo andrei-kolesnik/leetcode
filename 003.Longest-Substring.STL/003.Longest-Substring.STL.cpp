@@ -38,13 +38,20 @@ int lengthOfLongestSubstring(string s) {
 	return result;
 }
 
+void check(string s, int expected) {
+	int actual = lengthOfLongestSubstring(s);
+	cout << boolalpha;
+	cout << (actual == expected ? "PASS" : "FAIL") << " "
+		<< " ( " << expected << " / " << actual << ")" << endl;
+}
+
 int main()
 {
-	cout << lengthOfLongestSubstring("abcabcbb") << endl; // 3
-	cout << lengthOfLongestSubstring("bbbbb") << endl; // 1
-	cout << lengthOfLongestSubstring("pwwkew") << endl; // 3
-	cout << lengthOfLongestSubstring("") << endl; // 3
-	cout << lengthOfLongestSubstring("abcdefghijklmnoprqstuvwxyz") << endl; // 3
+	check("abcabcbb", 3);
+	check("bbbbb", 1);
+	check("pwwkew", 3);
+	check("", 0);
+	check("abcdefghijklmnoprqstuvwxyz", 26);
 	system("pause");
 	return 0;
 }
