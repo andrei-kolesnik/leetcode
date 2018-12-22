@@ -10,7 +10,6 @@ Output 2: -1
 */
 #include <stdio.h>
 #include <string.h>
-using namespace std;
 
 int strStr(char* haystack, char* needle) {
 	if (*needle == 0) return 0;
