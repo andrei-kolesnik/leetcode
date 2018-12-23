@@ -50,6 +50,7 @@ Solutions for the practice problems on LeetCode.
 |957*|[Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/) | [C++ STL](957.Prison-Cells-After-N-Days.STL) |medium|
 |958*|[Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) | [C++ STL](958.Check-Completeness-of-a-Binary-Tree.STL) |medium|
 |961*|[N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | [C++ STL](961.N-Repeated-Element-in-Size-2N-Array.STL) |easy|
+|962*|[Maximum Width Ramp](https://leetcode.com/problems/maximum-width-ramp/) | [C++ STL](962.Maximum-Width-Ramp.STL) |medium|
 
 * premium problems from weekly contests
 
