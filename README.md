@@ -49,6 +49,7 @@ Solutions for the practice problems on LeetCode.
 |954*|[Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/) | [C++ STL](954.Array-of-Doubled-Pairs.STL) |medium|
 |957*|[Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/) | [C++ STL](957.Prison-Cells-After-N-Days.STL) |medium|
 |958*|[Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) | [C++ STL](958.Check-Completeness-of-a-Binary-Tree.STL) |medium|
+|961*|[N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | [C++ STL](961.N-Repeated-Element-in-Size-2N-Array.STL) |easy|
 
 * premium problems from weekly contests
 
