@@ -37,6 +37,7 @@ Solutions for the practice problems on LeetCode.
 |563|[Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/) | [C++ STL](563.Binary-Tree-Tilt.STL) |easy|
 |655|[Print Binary Tree](https://leetcode.com/problems/print-binary-tree/) | [C++ STL](655.Print-Binary-Tree.STL) |medium|
 |704|[Binary Search](https://leetcode.com/problems/binary-search/) | [C++ STL](704.Binary-Search.CPP) |easy|
+|720|[Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/) | [C++ STL](720.Longest-Word-in-Dictionary.STL) |easy|
 |765|[Couples Holding Hands](https://leetcode.com/problems/couples-holding-hands/) | [C++ STL](765.Couples-Holding-Hands.STL) |hard|
 |783|[Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/) | [C++ STL](783.Minimum-Distance-Between-BST-Nodes.STL) |easy|
 |860|[Lemonade Change](https://leetcode.com/problems/lemonade-change/) | [C++ STL](860.Lemonade-Change.STL) |easy|
