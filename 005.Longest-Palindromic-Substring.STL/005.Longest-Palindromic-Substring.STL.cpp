@@ -15,20 +15,20 @@ Output: "bb"
 
 using namespace std;
 
-string longestPalindrome(string s) {
-
+string longestPalindrome(string s) 
+{
 	if (!s.size()) return "";
 	string result(1, s[0]);
-
-	int i, j, k, l, m;
+	int i, j, left, right, middle;
 	for (i = 0; i < s.size(); i++)
 	{
-		string found = "";
 		for (j = 2; j <= s.size() - i; j++)
 		{
 			bool OK = true;
-			for (m = 0, k = i, l = i + j - 1; m < j/2; k++, l--, m++)
-				if (s[k] != s[l])
+			for (middle = 0, left = i, right = i + j - 1; 
+				 middle < j/2; 
+				 left++, right--, middle++)
+				if (s[left] != s[right])
 				{
 					OK = false;
 					break;
@@ -37,7 +37,6 @@ string longestPalindrome(string s) {
 				result = s.substr(i, j);
 		}
 	}
-
 	return result;
 }
 
