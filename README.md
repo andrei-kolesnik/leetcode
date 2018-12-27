@@ -5,70 +5,70 @@ Solutions for the practice problems on LeetCode.
 
 | # | Problem Title / Link to LeetCode | Solution | Difficulty | Tags |
 |---:| :--- | :---: | :---: | :---: |
-|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [C++ STL](002.Add-Two-Numbers.STL) |medium|`linked list`|
+|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [C++ STL](002.Add-Two-Numbers.STL) |medium|`linked list` `math`|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [C++ STL](003.Longest-Substring.STL) |medium|`hash table`|
-|5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [C++ STL](005.Longest-Palindromic-Substring.STL) |medium|
-|6|[Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [C++ STL](006.Zigzag-Conversion.STL) |medium|
-|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [C++ STL](007.Reverse-Integer.STL) |easy|
-|8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [C++ STL](008.String-to-Integer.STL) |medium|
-|9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [C++ STL](009.Palindrome-Number.STL) |easy|
-|10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [C++ STL](010.Regular-Expression-Matching.STL) |hard|
-|11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [C++ STL](011.Container-With-Most-Water.STL) |medium|
-|12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [C++ STL](012.Integer-to-Roman.STL) |medium|
-|13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [C++ STL](013.Roman-to-Integer.STL) |easy|
-|14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [C++ STL](014.Longest-Common-Prefix.STL) |easy|
-|15|[3Sum](https://leetcode.com/problems/3sum/) | [C++ STL](015.3Sum.STL) |medium|
-|16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [C++ STL](016.3Sum-Closest.STL) |medium|
-|18|[4Sum](https://leetcode.com/problems/4sum/) | [C++ STL](018.4Sum.STL) |medium|
-|19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [C++ STL](019.Remove-Nth-Node-From-End-of-List.STL) |medium|
-|20|[Valid Parantheses](https://leetcode.com/problems/valid-parentheses/) | [C++ STL](020.Valid-Parantheses.STL) |easy|
-|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [C++ STL](021.Merge-Two-Sorted-Lists.STL) |easy|
-|22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [C++ STL](022.Generate-Parentheses.STL) |medium|
-|23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [C++ STL](023.Merge-k-Sorted-Lists.STL) |hard|
-|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C++ STL](026.Remove-Duplicates-from-Sorted-Array.STL) |easy|
-|27|[Remove Element](https://leetcode.com/problems/remove-element/) | [C++ STL](027.Remove-Element.STL) |easy|
-|28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [C++](028.Implement-strStr.CPP) |easy|
-|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [C++ STL](053.Maximum-Subarray.STL) |easy|
-|94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [C++ STL](094.Binary-Tree-Inorder-Traversal.STL) |medium|
-|101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [C++ STL](101.Symmetric-Tree.STL) |easy|
-|125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [C++ STL](125.Valid-Palindrome.STL) |easy|
-|128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [C++ STL](128.Longest-Consecutive-Sequence.STL) |hard|
-|204|[Count Primes](https://leetcode.com/problems/count-primes/) | [C++ STL](204.Count-Primes.STL) |easy|
-|208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [C++ STL](208.Trie.STL) |medium|
-|538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | [C++ STL](538.Convert-BST-to-Greater-Tree.STL) |easy|
-|563|[Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/) | [C++ STL](563.Binary-Tree-Tilt.STL) |easy|
-|655|[Print Binary Tree](https://leetcode.com/problems/print-binary-tree/) | [C++ STL](655.Print-Binary-Tree.STL) |medium|
-|704|[Binary Search](https://leetcode.com/problems/binary-search/) | [C++ STL](704.Binary-Search.CPP) |easy|
-|720|[Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/) | [C++ STL](720.Longest-Word-in-Dictionary.STL) |easy|
-|765|[Couples Holding Hands](https://leetcode.com/problems/couples-holding-hands/) | [C++ STL](765.Couples-Holding-Hands.STL) |hard|
-|783|[Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/) | [C++ STL](783.Minimum-Distance-Between-BST-Nodes.STL) |easy|
-|860|[Lemonade Change](https://leetcode.com/problems/lemonade-change/) | [C++ STL](860.Lemonade-Change.STL) |easy|
-|938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | [C++ STL](938.Range-Sum-of-BST.STL) |easy|
-|945*|[Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/) | [C++ STL](945.Minimum-Increment-to-Make-Array-Unique.STL) |medium|
-|946*|[Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) | [C++ STL](946.Validate-Stack-Sequences.STL) |medium|
-|948*|[Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/) | [C++ STL](948.Bag-of-Tokens.STL) |medium|
-|949*|[Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/) | [C++ STL](949.Largest-Time-for-Given-Digits.STL) |easy|
-|951*|[Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/) | [C++ STL](951.Flip-Equivalent-Binary-Trees) |medium|
-|954*|[Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/) | [C++ STL](954.Array-of-Doubled-Pairs.STL) |medium|
-|957*|[Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/) | [C++ STL](957.Prison-Cells-After-N-Days.STL) |medium|
-|958*|[Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) | [C++ STL](958.Check-Completeness-of-a-Binary-Tree.STL) |medium|
-|961*|[N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | [C++ STL](961.N-Repeated-Element-in-Size-2N-Array.STL) |easy|
-|962*|[Maximum Width Ramp](https://leetcode.com/problems/maximum-width-ramp/) | [C++ STL](962.Maximum-Width-Ramp.STL) |medium|
+|5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [C++ STL](005.Longest-Palindromic-Substring.STL) |medium|`two pointers`|
+|6|[Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [C++ STL](006.Zigzag-Conversion.STL) |medium|`string`|
+|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [C++ STL](007.Reverse-Integer.STL) |easy|`math`|
+|8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [C++ STL](008.String-to-Integer.STL) |medium|`string` `math`|
+|9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [C++ STL](009.Palindrome-Number.STL) |easy|`math`|
+|10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [C++ STL](010.Regular-Expression-Matching.STL) |hard|`dynamic programming`|
+|11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [C++ STL](011.Container-With-Most-Water.STL) |medium|`two pointers`|
+|12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [C++ STL](012.Integer-to-Roman.STL) |medium|`string` `math`|
+|13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [C++ STL](013.Roman-to-Integer.STL) |easy|`string` `math`|
+|14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [C++ STL](014.Longest-Common-Prefix.STL) |easy|`string`|
+|15|[3Sum](https://leetcode.com/problems/3sum/) | [C++ STL](015.3Sum.STL) |medium|`two pointers`|
+|16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [C++ STL](016.3Sum-Closest.STL) |medium|`two pointers`|
+|18|[4Sum](https://leetcode.com/problems/4sum/) | [C++ STL](018.4Sum.STL) |medium|`two pointers` `hash table`|
+|19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [C++ STL](019.Remove-Nth-Node-From-End-of-List.STL) |medium|`linked list`|
+|20|[Valid Parantheses](https://leetcode.com/problems/valid-parentheses/) | [C++ STL](020.Valid-Parantheses.STL) |easy|`stack`|
+|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [C++ STL](021.Merge-Two-Sorted-Lists.STL) |easy|`linked list`|
+|22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [C++ STL](022.Generate-Parentheses.STL) |medium|`backtracking`|
+|23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [C++ STL](023.Merge-k-Sorted-Lists.STL) |hard|`linked list` `heap`|
+|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C++ STL](026.Remove-Duplicates-from-Sorted-Array.STL) |easy|`array`|
+|27|[Remove Element](https://leetcode.com/problems/remove-element/) | [C++ STL](027.Remove-Element.STL) |easy|`array`|
+|28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [C++](028.Implement-strStr.CPP) |easy|`string` `two pointers`|
+|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [C++ STL](053.Maximum-Subarray.STL) |easy|`dynamic programming`|
+|94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [C++ STL](094.Binary-Tree-Inorder-Traversal.STL) |medium|`tree` `stack`|
+|101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [C++ STL](101.Symmetric-Tree.STL) |easy|`tree` `depth-first search` `breadth-first search`|
+|125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [C++ STL](125.Valid-Palindrome.STL) |easy|`two pointers`|
+|128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [C++ STL](128.Longest-Consecutive-Sequence.STL) |hard|`union find`|
+|204|[Count Primes](https://leetcode.com/problems/count-primes/) | [C++ STL](204.Count-Primes.STL) |easy|`array`|
+|208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [C++ STL](208.Trie.STL) |medium|`trie`|
+|538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | [C++ STL](538.Convert-BST-to-Greater-Tree.STL) |easy|`tree`|
+|563|[Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/) | [C++ STL](563.Binary-Tree-Tilt.STL) |easy|`tree`|
+|655|[Print Binary Tree](https://leetcode.com/problems/print-binary-tree/) | [C++ STL](655.Print-Binary-Tree.STL) |medium|`tree`|
+|704|[Binary Search](https://leetcode.com/problems/binary-search/) | [C++ STL](704.Binary-Search.CPP) |easy|`binary search`|
+|720|[Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/) | [C++ STL](720.Longest-Word-in-Dictionary.STL) |easy|`trie` `hash table`|
+|765|[Couples Holding Hands](https://leetcode.com/problems/couples-holding-hands/) | [C++ STL](765.Couples-Holding-Hands.STL) |hard|`union find`|
+|783|[Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/) | [C++ STL](783.Minimum-Distance-Between-BST-Nodes.STL) |easy|`binary search tree`|
+|860|[Lemonade Change](https://leetcode.com/problems/lemonade-change/) | [C++ STL](860.Lemonade-Change.STL) |easy|`greedy`|
+|938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | [C++ STL](938.Range-Sum-of-BST.STL) |easy|`binary search tree`|
+|945*|[Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/) | [C++ STL](945.Minimum-Increment-to-Make-Array-Unique.STL) |medium|`array`|
+|946*|[Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) | [C++ STL](946.Validate-Stack-Sequences.STL) |medium|`stack`|
+|948*|[Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/) | [C++ STL](948.Bag-of-Tokens.STL) |medium|`greedy`|
+|949*|[Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/) | [C++ STL](949.Largest-Time-for-Given-Digits.STL) |easy|`math`|
+|951*|[Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/) | [C++ STL](951.Flip-Equivalent-Binary-Trees) |medium|`tree`|
+|954*|[Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/) | [C++ STL](954.Array-of-Doubled-Pairs.STL) |medium|`hash table`|
+|957*|[Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/) | [C++ STL](957.Prison-Cells-After-N-Days.STL) |medium|`array`|
+|958*|[Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) | [C++ STL](958.Check-Completeness-of-a-Binary-Tree.STL) |medium|`tree`|
+|961*|[N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | [C++ STL](961.N-Repeated-Element-in-Size-2N-Array.STL) |easy|`hash table`|
+|962*|[Maximum Width Ramp](https://leetcode.com/problems/maximum-width-ramp/) | [C++ STL](962.Maximum-Width-Ramp.STL) |medium|`array`|
 
 * premium problems from weekly contests
 
 ## Python
 
-| # | Problem Title / Link to LeetCode | Solution | Difficulty |
-|---:| :--- | :---: | :---: |
-|17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Python](Python/017.Letter-Combinations-of-a-Phone-Number.py) |medium|
-|31|[Next Permutation](https://leetcode.com/problems/next-permutation/) | [Python](Python/031.Next-Permutation.py) |medium|
-|215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Python](Python/215.Kth-Largest-Element-in-an-Array.py) |medium|
-|263|[Ugly Number](https://leetcode.com/problems/ugly-number/) | [Python](Python/263.Ugly-Number.py) |easy|
-|929|[Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | [Python](Python/929.Unique-Email-Addresses.py) |easy|
-|950*|[Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | [Python](Python/950.Reveal-Cards-In-Increasing-Order.py) |medium|
-|953*|[Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/) | [Python](Python/953.Verifying-an-Alien-Dictionary.py) |easy|
-|954*|[Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/) | [C++ STL](Python/954.Array-of-Doubled-Pairs.py) |medium|
+| # | Problem Title / Link to LeetCode | Solution | Difficulty | Tags |
+|---:| :--- | :---: | :---: | :---: |
+|17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Python](Python/017.Letter-Combinations-of-a-Phone-Number.py) |medium|`string` `backtracking`|
+|31|[Next Permutation](https://leetcode.com/problems/next-permutation/) | [Python](Python/031.Next-Permutation.py) |medium|`array`|
+|215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Python](Python/215.Kth-Largest-Element-in-an-Array.py) |medium|`heap`|
+|263|[Ugly Number](https://leetcode.com/problems/ugly-number/) | [Python](Python/263.Ugly-Number.py) |easy|`math`|
+|929|[Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | [Python](Python/929.Unique-Email-Addresses.py) |easy|`string`|
+|950*|[Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | [Python](Python/950.Reveal-Cards-In-Increasing-Order.py) |medium|`array`|
+|953*|[Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/) | [Python](Python/953.Verifying-an-Alien-Dictionary.py) |easy|`hash table`|
+|954*|[Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/) | [C++ STL](Python/954.Array-of-Doubled-Pairs.py) |medium|`hash table`|
 
 ## SQL
 
