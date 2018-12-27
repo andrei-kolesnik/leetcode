@@ -19,35 +19,44 @@ string longestPalindrome(string s)
 {
 	if (!s.size()) return "";
 	string result(1, s[0]);
-	int i, j, left, right, middle;
-	for (i = 0; i < s.size(); i++)
+	int start, end, left, right, middle;
+	for (start = 0; start < s.size(); start++)
 	{
-		for (j = 2; j <= s.size() - i; j++)
+		for (end = 2; end <= s.size() - start; end++)
 		{
 			bool OK = true;
-			for (middle = 0, left = i, right = i + j - 1; 
-				 middle < j/2; 
+			for (middle = 0, left = start, right = start + end - 1; 
+				 middle < end/2; 
 				 left++, right--, middle++)
 				if (s[left] != s[right])
 				{
 					OK = false;
 					break;
 				}
-			if (OK && j > result.size())
-				result = s.substr(i, j);
+			if (OK && end > result.size())
+				result = s.substr(start, end);
 		}
 	}
 	return result;
 }
 
+void check(string s, string expected)
+{
+	string actual = longestPalindrome(s);
+	cout << boolalpha;
+	cout << (actual == expected ? "PASS" : "FAIL") << " "
+		<< " ( " << expected << " / " << actual << ")" << endl;
+}
+
 int main()
 {
-	cout << longestPalindrome("babad") << endl; // bab / aba
-	cout << longestPalindrome("cbbd") << endl; // bb
-	cout << longestPalindrome("") << endl; // ""
-	cout << longestPalindrome("a") << endl; // a
-	cout << longestPalindrome("abcdefghijklmnoprqstuvwxyz") << endl; // a
-	cout << longestPalindrome("abcdefghijklmnoprqstuvwxyzyxwvutsqrponmlkjihgfedcba") << endl; // abcdefghijklmnoprqstuvwxyzyxwvutsrqponmlkjihgfedcba
+	check("", "");
+	check("a", "a");
+	check("cbbd", "bb");
+	check("babad", "bab"); // "aba" is also correct
+	check("cbbdadb", "bdadb");
+	check("abcdefghijklmnoprqstuvwxyz", "a");
+	check("abcdefghijklmnoprqstuvwxyzyxwvutsqrponmlkjihgfedcba", "abcdefghijklmnoprqstuvwxyzyxwvutsqrponmlkjihgfedcba");
 	system("pause");
 	return 0;
 }
