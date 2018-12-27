@@ -29,6 +29,7 @@ Solutions for the practice problems on LeetCode.
 |27|[Remove Element](https://leetcode.com/problems/remove-element/) | [C++ STL](027.Remove-Element.STL) |easy|`array`|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [C++](028.Implement-strStr.CPP) |easy|`string` `two pointers`|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [C++ STL](053.Maximum-Subarray.STL) |easy|`dynamic programming`|
+|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [C++ STL](070.Climbing-Stairs.STL) |easy|`dynamic programming`|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [C++ STL](094.Binary-Tree-Inorder-Traversal.STL) |medium|`tree` `stack`|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [C++ STL](101.Symmetric-Tree.STL) |easy|`tree` `depth-first search` `breadth-first search`|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [C++ STL](125.Valid-Palindrome.STL) |easy|`two pointers`|
