@@ -3,10 +3,10 @@ Solutions for the practice problems on LeetCode.
 
 ## C++
 
-| # | Problem Title / Link to LeetCode | Solution | Difficulty |
-|---:| :--- | :---: | :---: |
-|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [C++ STL](002.Add-Two-Numbers.STL) |medium|
-|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [C++ STL](003.Longest-Substring.STL) |medium|
+| # | Problem Title / Link to LeetCode | Solution | Difficulty | Tags |
+|---:| :--- | :---: | :---: | :---: |
+|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [C++ STL](002.Add-Two-Numbers.STL) |medium|`linked list`|
+|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [C++ STL](003.Longest-Substring.STL) |medium|`hash table`|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [C++ STL](005.Longest-Palindromic-Substring.STL) |medium|
 |6|[Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [C++ STL](006.Zigzag-Conversion.STL) |medium|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [C++ STL](007.Reverse-Integer.STL) |easy|
