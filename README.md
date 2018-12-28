@@ -34,6 +34,7 @@ Solutions for the practice problems on LeetCode.
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [C++ STL](101.Symmetric-Tree.STL) |easy|`tree` `depth-first search` `breadth-first search`|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [C++ STL](125.Valid-Palindrome.STL) |easy|`two pointers`|
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [C++ STL](128.Longest-Consecutive-Sequence.STL) |hard|`union find`|
+|198|[House Robber](https://leetcode.com/problems/house-robber/) | [C++ STL](198.House-Robber.STL) |easy|`dynamic programming`|
 |204|[Count Primes](https://leetcode.com/problems/count-primes/) | [C++ STL](204.Count-Primes.STL) |easy|`array`|
 |208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [C++ STL](208.Trie.STL) |medium|`trie`|
 |538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | [C++ STL](538.Convert-BST-to-Greater-Tree.STL) |easy|`tree`|
