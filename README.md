@@ -32,6 +32,7 @@ Solutions for the practice problems on LeetCode.
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [C++ STL](070.Climbing-Stairs.STL) |easy|`dynamic programming`|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [C++ STL](094.Binary-Tree-Inorder-Traversal.STL) |medium|`tree` `stack`|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [C++ STL](101.Symmetric-Tree.STL) |easy|`tree` `depth-first search` `breadth-first search`|
+|121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [C++ STL](121.Best-Time-to-Buy-and-Sell-Stock.STL) |easy|`dynamic programming`|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [C++ STL](125.Valid-Palindrome.STL) |easy|`two pointers`|
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [C++ STL](128.Longest-Consecutive-Sequence.STL) |hard|`union find`|
 |198|[House Robber](https://leetcode.com/problems/house-robber/) | [C++ STL](198.House-Robber.STL) |easy|`dynamic programming`|
