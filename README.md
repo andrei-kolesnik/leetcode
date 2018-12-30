@@ -57,6 +57,7 @@ Solutions for the practice problems on LeetCode.
 |958*|[Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) | [C++ STL](958.Check-Completeness-of-a-Binary-Tree.STL) |medium|`tree`|
 |961*|[N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | [C++ STL](961.N-Repeated-Element-in-Size-2N-Array.STL) |easy|`hash table`|
 |962*|[Maximum Width Ramp](https://leetcode.com/problems/maximum-width-ramp/) | [C++ STL](962.Maximum-Width-Ramp.STL) |medium|`array`|
+|967*|[Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences/) | [C++ STL](967.Numbers-With-Same-Consecutive-Differences.STL)|medium|`dynamic programming` `trie`|
 
 * premium problems from weekly contests
 
