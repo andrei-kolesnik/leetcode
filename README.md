@@ -38,6 +38,7 @@ Solutions for the practice problems on LeetCode.
 |198|[House Robber](https://leetcode.com/problems/house-robber/) | [C++ STL](198.House-Robber.STL) |easy|`dynamic programming`|
 |204|[Count Primes](https://leetcode.com/problems/count-primes/) | [C++ STL](204.Count-Primes.STL) |easy|`array`|
 |208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [C++ STL](208.Trie.STL) |medium|`trie`|
+|530|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [C++ STL](530.Minimum-Absolute-Difference-in-BST.STL) |easy|`binary search tree` `in-order traversal`|
 |538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | [C++ STL](538.Convert-BST-to-Greater-Tree.STL) |easy|`tree`|
 |563|[Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/) | [C++ STL](563.Binary-Tree-Tilt.STL) |easy|`tree`|
 |655|[Print Binary Tree](https://leetcode.com/problems/print-binary-tree/) | [C++ STL](655.Print-Binary-Tree.STL) |medium|`tree`|
@@ -73,7 +74,7 @@ Solutions for the practice problems on LeetCode.
 |929|[Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | [Python](Python/929.Unique-Email-Addresses.py) |easy|`string`|
 |950*|[Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | [Python](Python/950.Reveal-Cards-In-Increasing-Order.py) |medium|`array`|
 |953*|[Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/) | [Python](Python/953.Verifying-an-Alien-Dictionary.py) |easy|`hash table`|
-|954*|[Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/) | [C++ STL](Python/954.Array-of-Doubled-Pairs.py) |medium|`hash table`|
+|954*|[Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/) | [Python](Python/954.Array-of-Doubled-Pairs.py) |medium|`hash table`|
 
 ## SQL
 
