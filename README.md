@@ -70,6 +70,7 @@ Solutions for the practice problems on LeetCode.
 |---:| :--- | :---: | :---: | :---: |
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Python](Python/017.Letter-Combinations-of-a-Phone-Number.py) |medium|`string` `backtracking`|
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/) | [Python](Python/031.Next-Permutation.py) |medium|`array`|
+|78|[Subsets](https://leetcode.com/problems/subsets/) | [Python](Python/078.Subsets.py) |medium|`array` `bit manipulation`|
 |120|[Triangle](https://leetcode.com/problems/triangle/) | [Python](Python/120.Triangle.py) |medium|`array` `dynamic programming`|
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Python](Python/215.Kth-Largest-Element-in-an-Array.py) |medium|`heap`|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/) | [Python](Python/263.Ugly-Number.py) |easy|`math`|
