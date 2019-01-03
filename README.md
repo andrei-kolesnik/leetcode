@@ -56,6 +56,7 @@ Solutions for the practice problems on LeetCode.
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Python](Python/215.Kth-Largest-Element-in-an-Array.py) |medium|`heap`|
 |262|[Trips and Users](https://leetcode.com/problems/trips-and-users/) | [MS SQL](sql/262.Trips-and-Users.SQL) |hard|  |
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/) | [Python](Python/263.Ugly-Number.py) |easy|`math`|
+|307|[Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) | [C++ STL](307.Range-Sum-Query-Mutable.STL) |medium|`binary indexed tree` `segment tree`|
 |315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | [C++ STL](315.Count-of-Smaller-Numbers-After-Self.STL) |hard|`binary indexed tree` `segment tree` `binary search tree`|
 |530|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [C++ STL](530.Minimum-Absolute-Difference-in-BST.STL) |easy|`binary search tree` `in-order traversal`|
 |538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | [C++ STL](538.Convert-BST-to-Greater-Tree.STL) |easy|`tree`|
