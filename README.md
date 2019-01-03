@@ -28,6 +28,7 @@ Solutions for the practice problems on LeetCode.
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C++ STL](026.Remove-Duplicates-from-Sorted-Array.STL) |easy|`array`|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/) | [C++ STL](027.Remove-Element.STL) |easy|`array`|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [C++](028.Implement-strStr.CPP) |easy|`string` `two pointers`|
+|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [C++](035.Search-Insert-Position.CPP) |easy|`array` `binary search`|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [C++ STL](053.Maximum-Subarray.STL) |easy|`dynamic programming`|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [C++ STL](070.Climbing-Stairs.STL) |easy|`dynamic programming`|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [C++ STL](094.Binary-Tree-Inorder-Traversal.STL) |medium|`tree` `stack`|
@@ -38,6 +39,7 @@ Solutions for the practice problems on LeetCode.
 |198|[House Robber](https://leetcode.com/problems/house-robber/) | [C++ STL](198.House-Robber.STL) |easy|`dynamic programming`|
 |204|[Count Primes](https://leetcode.com/problems/count-primes/) | [C++ STL](204.Count-Primes.STL) |easy|`array`|
 |208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [C++ STL](208.Trie.STL) |medium|`trie`|
+|315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | [C++ STL](315.Count-of-Smaller-Numbers-After-Self.STL) |hard|`binary indexed tree` `segment tree` `binary search tree`|
 |530|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [C++ STL](530.Minimum-Absolute-Difference-in-BST.STL) |easy|`binary search tree` `in-order traversal`|
 |538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | [C++ STL](538.Convert-BST-to-Greater-Tree.STL) |easy|`tree`|
 |563|[Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/) | [C++ STL](563.Binary-Tree-Tilt.STL) |easy|`tree`|
