@@ -69,6 +69,7 @@ Solutions for the practice problems on LeetCode.
 |655|[Print Binary Tree](https://leetcode.com/problems/print-binary-tree/) | [C++ STL](655.Print-Binary-Tree.STL) |medium|`tree`|
 |704|[Binary Search](https://leetcode.com/problems/binary-search/) | [C++ STL](704.Binary-Search.CPP) |easy|`binary search`|
 |720|[Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/) | [C++ STL](720.Longest-Word-in-Dictionary.STL) |easy|`trie` `hash table`|
+|743|[Network Delay Time](https://leetcode.com/problems/network-delay-time/) | [C++ STL](743.Network-Delay-Time.STL) |easy|`heap` `graph` `depth-first search` `breadth-first search`|
 |765|[Couples Holding Hands](https://leetcode.com/problems/couples-holding-hands/) | [C++ STL](765.Couples-Holding-Hands.STL) |hard|`union find`|
 |783|[Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/) | [C++ STL](783.Minimum-Distance-Between-BST-Nodes.STL) |easy|`binary search tree`|
 |860|[Lemonade Change](https://leetcode.com/problems/lemonade-change/) | [C++ STL](860.Lemonade-Change.STL) |easy|`greedy`|
