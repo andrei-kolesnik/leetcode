@@ -89,5 +89,6 @@ Solutions for the practice problems on LeetCode.
 |962*|[Maximum Width Ramp](https://leetcode.com/problems/maximum-width-ramp/) | [C++ STL](962.Maximum-Width-Ramp.STL) |medium|`array`|
 |967*|[Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences/) | [C++ STL](967.Numbers-With-Same-Consecutive-Differences.STL)|medium|`dynamic programming` `trie`|
 |969*|[Pancake Sorting](https://leetcode.com/problems/pancake-sorting/) | [C++ STL](969.Pancake-Sorting.STL)|medium|`array` `sort`|
+|970*|[Powerful Integers](https://leetcode.com/problems/powerful-integers/) | [C++ STL](970.Powerful-Integers.STL)|easy|`math`|
 
 * premium problems from weekly contests
