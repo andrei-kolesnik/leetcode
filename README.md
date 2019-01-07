@@ -72,6 +72,7 @@ Solutions for the practice problems on LeetCode.
 |743|[Network Delay Time](https://leetcode.com/problems/network-delay-time/) | [C++ STL](743.Network-Delay-Time.STL) |easy|`graph` `Dijkstra’s algorithm`|
 |765|[Couples Holding Hands](https://leetcode.com/problems/couples-holding-hands/) | [C++ STL](765.Couples-Holding-Hands.STL) |hard|`union find`|
 |783|[Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/) | [C++ STL](783.Minimum-Distance-Between-BST-Nodes.STL) |easy|`binary search tree`|
+|841|[Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) | [C++ STL](841.Keys-and-Rooms.STL) |easy|`graph` `depth-first search`|
 |860|[Lemonade Change](https://leetcode.com/problems/lemonade-change/) | [C++ STL](860.Lemonade-Change.STL) |easy|`greedy`|
 |929|[Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | [Python](Python/929.Unique-Email-Addresses.py) |easy|`string`|
 |938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | [C++ STL](938.Range-Sum-of-BST.STL) |easy|`binary search tree`|
