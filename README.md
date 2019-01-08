@@ -83,9 +83,10 @@ Solutions for the practice problems on LeetCode.
 |950*|[Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | [Python](Python/950.Reveal-Cards-In-Increasing-Order.py) |medium|`array`|
 |951*|[Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/) | [C++ STL](951.Flip-Equivalent-Binary-Trees) |medium|`tree`|
 |953*|[Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/) | [Python](Python/953.Verifying-an-Alien-Dictionary.py) |easy|`hash table`|
-|954*|[Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/) | [C++ STL](954.Array-of-Doubled-Pairs.STL) [Python](Python/954.Array-of-Doubled-Pairs.py) |medium|`hash table`|
+|954*|[Arrayof Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/) | [C++ STL](954.Array-of-Doubled-Pairs.STL) [Python](Python/954.Array-of-Doubled-Pairs.py) |medium|`hash table`|
 |957*|[Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/) | [C++ STL](957.Prison-Cells-After-N-Days.STL) |medium|`array`|
 |958*|[Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) | [C++ STL](958.Check-Completeness-of-a-Binary-Tree.STL) |medium|`tree`|
+|959*|[Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes/) | [C++ STL](959.Regions-Cut-By-Slashes.STL) |medium|`graph` `depth-first search` `union find`|
 |961*|[N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | [C++ STL](961.N-Repeated-Element-in-Size-2N-Array.STL) |easy|`hash table`|
 |962*|[Maximum Width Ramp](https://leetcode.com/problems/maximum-width-ramp/) | [C++ STL](962.Maximum-Width-Ramp.STL) |medium|`array`|
 |967*|[Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences/) | [C++ STL](967.Numbers-With-Same-Consecutive-Differences.STL)|medium|`dynamic programming` `trie`|
