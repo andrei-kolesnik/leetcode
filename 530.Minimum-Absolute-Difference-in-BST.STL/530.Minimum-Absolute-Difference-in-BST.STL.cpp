@@ -41,7 +41,6 @@ int getMinimumDifference(TreeNode* root) {
 }
 
 void check(TreeNode* root, int expected) {
-	getMinimumDifference(root);
 	int actual = getMinimumDifference(root);
 	cout << boolalpha;
 	cout << (actual == expected ? "PASS" : "FAIL") << " "
