@@ -34,6 +34,7 @@ Solutions for the practice problems on LeetCode.
 |78|[Subsets](https://leetcode.com/problems/subsets/) | [Python](Python/078.Subsets.py) |medium|`array` `bit manipulation`|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [C++ STL](094.Binary-Tree-Inorder-Traversal.STL) |medium|`tree` `stack`|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [C++ STL](101.Symmetric-Tree.STL) |easy|`tree` `depth-first search` `breadth-first search`|
+|111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [C++ STL](111.Minimum-Depth-of-Binary-Tree.STL) |easy|`tree` `depth-first search` `breadth-first search`|
 |120|[Triangle](https://leetcode.com/problems/triangle/) | [Python](Python/120.Triangle.py) |medium|`array` `dynamic programming`|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [C++ STL](121.Best-Time-to-Buy-and-Sell-Stock.STL) |easy|`dynamic programming`|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [C++ STL](125.Valid-Palindrome.STL) |easy|`two pointers`|
