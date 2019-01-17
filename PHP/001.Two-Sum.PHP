@@ -7,7 +7,8 @@ Input: [2, 7, 11, 15], target = 9
 Output: [0, 1]
 */
 class Solution {
-    function twoSum($nums, $target) {
+// Version 1: brute force; O(N^2) time, O(1) space
+    function twoSumBruteForce($nums, $target) {
         $result = array();
         for($i = 0; $i < count($nums) - 1; $i++)
             for($j = $i + 1; $j < count($nums); $j++)
@@ -19,9 +20,28 @@ class Solution {
                 }
         return $result;
     }
+
+// Version 1: hash; O(N) time, O(N) space
+    function twoSumHash($nums, $target) {
+        $result = array();
+        $map = array();
+        for($i = 0; $i < count($nums); $i++)
+        {
+            if(isset($map[$nums[$i]]))    
+            {
+                $result[0] = $map[$nums[$i]];
+                $result[1] = $i;
+                return $result;
+            }
+            else 
+                $map[$target - $nums[$i]] = $i;
+        }
+        return $result;
+    }
 }
 
 $sol = new Solution();
 $nums = array(2, 7, 11, 15); 
-print_r($sol->twoSum($nums, 9));
+print_r($sol->twoSumBruteForce($nums, 9));
+print_r($sol->twoSumHash($nums, 9));
 ?>
