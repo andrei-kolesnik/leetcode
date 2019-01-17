@@ -20,7 +20,7 @@ function twoSumBruteForce($nums, $target) {
     return $result;
 }
 
-// Version 1: hash; O(N) time, O(N) space
+// Version 2: hash; O(N) time, O(N) space
 function twoSumHash($nums, $target) {
     $result = array();
     $map = array();
