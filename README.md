@@ -40,6 +40,7 @@ Solutions for the practice problems on LeetCode.
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [C++ STL](121.Best-Time-to-Buy-and-Sell-Stock.STL) |easy|`dynamic programming`|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [C++ STL](125.Valid-Palindrome.STL) |easy|`two pointers`|
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [C++ STL](128.Longest-Consecutive-Sequence.STL) |hard|`union find`|
+|167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [PHP](PHP/167.Two-SumII-Input-array-is-sorted.PHP) |easy|`array` `hash table`|
 |175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables) | [MySQL](sql/175.Combine-Two-Tables.SQL) |easy|  |
 |176|[Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | [MySQL](sql/176.Second-Highest-Salary.SQL) |easy|  |
 |177|[Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | [MS SQL](sql/177.Nth-Highest-Salary.SQL) |medium|  |
