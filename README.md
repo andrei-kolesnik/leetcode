@@ -33,7 +33,7 @@ Solutions for the practice problems on LeetCode.
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [C++ STL](053.Maximum-Subarray.STL) |easy|`dynamic programming`|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [C++ STL](070.Climbing-Stairs.STL) |easy|`dynamic programming`|
 |78|[Subsets](https://leetcode.com/problems/subsets/) | [Python](Python/078.Subsets.py) |medium|`array` `bit manipulation`|
-|94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [C++ STL](094.Binary-Tree-Inorder-Traversal.STL) |medium|`tree` `stack`|
+|94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [C++ STL](094.Binary-Tree-Inorder-Traversal.STL) [PHP](PHP/094.Binary-Tree-Inorder-Traversal.PHP) |medium|`tree` `stack`|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [C++ STL](101.Symmetric-Tree.STL) |easy|`tree` `depth-first search` `breadth-first search`|
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [C++ STL](111.Minimum-Depth-of-Binary-Tree.STL) |easy|`tree` `depth-first search` `breadth-first search`|
 |120|[Triangle](https://leetcode.com/problems/triangle/) | [Python](Python/120.Triangle.py) |medium|`array` `dynamic programming`|
