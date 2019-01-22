@@ -56,7 +56,7 @@ Solutions for the practice problems on LeetCode.
 |198|[House Robber](https://leetcode.com/problems/house-robber/) | [C++ STL](198.House-Robber.STL) |easy|`dynamic programming`|
 |204|[Count Primes](https://leetcode.com/problems/count-primes/) | [C++ STL](204.Count-Primes.STL) |easy|`array`|
 |208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [C++ STL](208.Trie.STL) |medium|`trie`|
-|215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Python](Python/215.Kth-Largest-Element-in-an-Array.py) |medium|`heap`|
+|215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [PHP](PHP/215.Kth-Largest-Element-in-an-Array.PHP) [Python](Python/215.Kth-Largest-Element-in-an-Array.py) |medium|`heap`|
 |262|[Trips and Users](https://leetcode.com/problems/trips-and-users/) | [MS SQL](sql/262.Trips-and-Users.SQL) |hard|  |
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/) | [Python](Python/263.Ugly-Number.py) |easy|`math`|
 |307|[Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) | [C++ STL](307.Range-Sum-Query-Mutable.STL) |medium|`binary indexed tree` `segment tree`|
