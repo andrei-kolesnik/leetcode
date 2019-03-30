@@ -58,6 +58,7 @@ Solutions for the practice problems on LeetCode.
 |208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [C++ STL](208.Trie.STL) |medium|`trie`|
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [PHP](PHP/215.Kth-Largest-Element-in-an-Array.PHP) [Python](Python/215.Kth-Largest-Element-in-an-Array.py) |medium|`heap`|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [PHP](PHP/217.Contains-Duplicate.PHP) |easy|`array` `hash table`|
+|219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii) | [PHP](PHP/219.Contains-Duplicate-II.PHP) |easy|`array` `hash table`|
 |262|[Trips and Users](https://leetcode.com/problems/trips-and-users/) | [MS SQL](sql/262.Trips-and-Users.SQL) |hard|  |
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/) | [Python](Python/263.Ugly-Number.py) |easy|`math`|
 |307|[Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) | [C++ STL](307.Range-Sum-Query-Mutable.STL) |medium|`binary indexed tree` `segment tree`|
