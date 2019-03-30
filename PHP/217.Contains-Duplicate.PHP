@@ -27,8 +27,8 @@ function containsDuplicate($nums) {
     return false;
 }
 
-echo containsDuplicate([1,2,3,1]), "\n"; // true
-echo containsDuplicate([1,2,3,4]), "\n"; // false
-echo containsDuplicate([1,1,1,3,3,4,3,2,4,2]), "\n"; // true
-echo containsDuplicate([]), "\n"; // false
-echo containsDuplicate([1,1]), "\n"; // true
+echo var_export(containsDuplicate([1,2,3,1])), "\n"; // true
+echo var_export(containsDuplicate([1,2,3,4])), "\n"; // false
+echo var_export(containsDuplicate([1,1,1,3,3,4,3,2,4,2])), "\n"; // true
+echo var_export(containsDuplicate([])), "\n"; // false
+echo var_export(containsDuplicate([1,1])), "\n"; // true
