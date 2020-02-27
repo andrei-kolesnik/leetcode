@@ -8,7 +8,7 @@ Solutions for the practice problems on LeetCode.
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [C++](003.Longest-Substring.STL) |medium|`hash table`|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [C++](005.Longest-Palindromic-Substring.STL) |medium|`two pointers`|
 |6|[Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [C++](006.Zigzag-Conversion.STL) |medium|`string`|
-|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [C++](007.Reverse-Integer.STL) [Go](Go/007.Reverse-Integer) |easy|`math`|
+|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [C++](007.Reverse-Integer.STL) [Go](Go/007.Reverse-Integer.go) |easy|`math`|
 |8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [C++](008.String-to-Integer.STL) |medium|`string` `math`|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [C++](009.Palindrome-Number.STL) |easy|`math`|
 |10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [C++](010.Regular-Expression-Matching.STL) |hard|`dynamic programming`|
