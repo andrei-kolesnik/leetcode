@@ -1,6 +1,6 @@
 <?php
 /*
-LettCode 1. Two Sum
+LeetCode 1. Two Sum
 https://leetcode.com/problems/two-sum/
 
 Input: [2, 7, 11, 15], target = 9

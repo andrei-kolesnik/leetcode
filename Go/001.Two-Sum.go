@@ -2,6 +2,14 @@ package main
 
 import "fmt"
 
+/*
+LeetCode 1. Two Sum
+https://leetcode.com/problems/two-sum/
+
+Input: [2, 7, 11, 15], target = 9
+Output: [0, 1]
+*/
+
 func twoSumBruteForce(nums []int, target int) []int {
 	for i := 0; i < len(nums)-1; i++ {
 		for j := i + 1; j < len(nums); j++ {
