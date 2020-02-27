@@ -10,6 +10,7 @@ Input: [2, 7, 11, 15], target = 9
 Output: [0, 1]
 */
 
+// Version 1: brute force; O(N^2) time, O(1) space
 func twoSumBruteForce(nums []int, target int) []int {
 	for i := 0; i < len(nums)-1; i++ {
 		for j := i + 1; j < len(nums); j++ {
@@ -21,6 +22,7 @@ func twoSumBruteForce(nums []int, target int) []int {
 	return []int{}
 }
 
+// Version 2: hash; O(N) time, O(N) space
 func twoSumHash(nums []int, target int) []int {
 	hash := make(map[int]int, len(nums))
 	for i, n := range nums {
