@@ -51,6 +51,7 @@ Solutions for the practice problems on LeetCode.
 |183|[Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | [MS SQL](sql/183.Customers-WhoNeverOrder.SQL) |easy|  |
 |184|[Department Highest Salary](https://leetcode.com/problems/department-highest-salary/) | [MS SQL](sql/184.Department-Highest-Salary.SQL) |medium|  |
 |185|[Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/) | [MS SQL](sql/185.Department-Top-Three-Salaries.SQL) |hard|  |
+|192|[Word Frequency](https://leetcode.com/problems/word-frequency/)  | [bash](bash/192.Word-Frequency.sh) |medium|  |
 |193|[Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/)  | [bash](bash/193.Valid-Phone-Numbers.sh) |easy|  |
 |195|[Tenth Line](https://leetcode.com/problems/tenth-line/)  | [bash](bash/195.Tenth-Line.sh) |easy|  |
 |196|[Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)  | [MySQL](sql/196.Delete-Duplicate-Emails.SQL) |easy|  |
