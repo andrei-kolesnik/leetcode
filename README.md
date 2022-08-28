@@ -6,7 +6,7 @@ Solutions for the practice problems on LeetCode.
 |1|[Two Sum](https://leetcode.com/problems/two-sum/) | [PHP](PHP/001.Two-Sum.PHP) [Go](Go/001.Two-Sum.go) |easy|`array` `hash table`|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [C++](002.Add-Two-Numbers.STL) [Python](Python/002.Add-Two-Numbers.py) |medium|`linked list` `math`|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [C++](003.Longest-Substring.STL) [Go](Go/003.Longest-Substring.go) |medium|`hash table`|
-|5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [C++](005.Longest-Palindromic-Substring.STL) |medium|`two pointers`|
+|5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [C++](005.Longest-Palindromic-Substring.STL) [Python](Python/005.Longest-Palindromic-Substring.py) |medium|`two pointers`|
 |6|[Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [C++](006.Zigzag-Conversion.STL) |medium|`string`|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [C++](007.Reverse-Integer.STL) [Go](Go/007.Reverse-Integer.go) |easy|`math`|
 |8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [C++](008.String-to-Integer.STL) |medium|`string` `math`|
