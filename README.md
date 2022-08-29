@@ -25,6 +25,7 @@ Solutions for the practice problems on LeetCode.
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [C++](021.Merge-Two-Sorted-Lists.STL) |easy|`linked list`|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [C++](022.Generate-Parentheses.STL) |medium|`backtracking`|
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [C++](023.Merge-k-Sorted-Lists.STL) |hard|`linked list` `heap`|
+|24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Python](24.Swap-Nodes-in-Pairs.py)|medium|`linked list`|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C++](026.Remove-Duplicates-from-Sorted-Array.STL) |easy|`array`|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/) | [C++](027.Remove-Element.STL) |easy|`array`|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [C++](028.Implement-strStr.CPP) |easy|`string` `two pointers`|
