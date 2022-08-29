@@ -13,9 +13,9 @@ Output: "bb"
 
 """
 Submittable part of the solution
-Correct, but will time out
+Version 1: Recursive; correct, but will time out; O(n) = 2^n 
 """
-class Solution:
+class SolutionRecursive:
     def longestPalindrome(self, s: str) -> str:
         longest = self.isPalindrome(s)
         if longest > 0:
@@ -42,12 +42,40 @@ class Solution:
             return 0
         return 0
 
+
+"""
+Version 2: Single pass with check from the middle in both directions; O(n) = n^2 
+"""
+from math import floor, ceil
+
+
+class Solution:
+    def longestPalindrome(self, s: str) -> str:
+        result = ""
+        for i in [x * 0.5 for x in range(0, 2 * len(s) - 1)]:
+            left = floor(i)
+            right = ceil(i)
+            new_result = ""
+            while True:
+                if left < 0 or right >= len(s):
+                    break
+                if s[left] == s[right]:
+                    new_result = s[left:right+1]
+                    left -= 1
+                    right += 1
+                else:
+                    break
+            if len(new_result) > len(result):
+                result = new_result
+
+        return result
+
 """
 Runnable part, helpers, and tests
 """
-def use_case(input: str, expected: str):
-    actual = Solution().longestPalindrome(input)
-    print('PASS' if actual == expected else 'FAIL', ':', input, actual)
+def use_case(given: str, expected: str):
+    actual = Solution().longestPalindrome(given)
+    print('PASS' if actual == expected else 'FAIL', ':', given, actual)
 
 
 if __name__ == '__main__':
