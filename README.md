@@ -11,7 +11,7 @@ Solutions for the practice problems on LeetCode.
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [C++](007.Reverse-Integer.STL) [Go](Go/007.Reverse-Integer.go) |easy|`math`|
 |8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [C++](008.String-to-Integer.STL) |medium|`string` `math`|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [C++](009.Palindrome-Number.STL) |easy|`math`|
-|10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [C++](010.Regular-Expression-Matching.STL) |hard|`dynamic programming`|
+|10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [C++](010.Regular-Expression-Matching.STL) [Python](Python/010.Regular-Expression-Matching.py)|hard|`dynamic programming`|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [C++](011.Container-With-Most-Water.STL) |medium|`two pointers`|
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [C++](012.Integer-to-Roman.STL) |medium|`string` `math`|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [C++](013.Roman-to-Integer.STL) |easy|`string` `math`|
