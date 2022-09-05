@@ -18,7 +18,7 @@ Explanation: From the top-left corner, there are a total of 3 ways to reach the 
 
 class Solution:
     def uniquePaths(self, m: int, n: int) -> int:
-        grid = [[0 for j in range(n)] for i in range(m)] * m
+        grid = [[0 for j in range(n)] for i in range(m)]
         grid[0][0] = 1
 
         for i in range(m):
