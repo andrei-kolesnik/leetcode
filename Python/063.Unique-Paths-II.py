@@ -17,7 +17,7 @@ class Solution:
         try:
             m = len(obstacleGrid)
             n = len(obstacleGrid[0])
-            grid = [[0 for j in range(n)] for i in range(m)] * m
+            grid = [[0 for j in range(n)] for i in range(m)]
             grid[0][0] = 0 if obstacleGrid[0][0] else 1
         except IndexError:
             return 0
