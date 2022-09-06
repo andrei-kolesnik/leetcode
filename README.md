@@ -31,6 +31,7 @@ Solutions for the practice problems on LeetCode.
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [C++](028.Implement-strStr.CPP) |easy|`string` `two pointers`|
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/) | [Python](Python/031.Next-Permutation.py) |medium|`array`|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [C++](035.Search-Insert-Position.CPP) |easy|`array` `binary search`|
+|42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Python](Python/042.Trapping-Rain-Water.py) |hard|`dynamic programming`|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [C++](053.Maximum-Subarray.STL) |easy|`dynamic programming`|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/) | [Python](Python/062.Unique-Paths.py) |medium|`dynamic programming`|
 |63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [Python](Python/063.Unique-Paths-II.py) |medium|`dynamic programming`|
