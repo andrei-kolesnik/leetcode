@@ -33,6 +33,7 @@ Solutions for the practice problems on LeetCode.
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [C++](035.Search-Insert-Position.CPP) |easy|`array` `binary search`|
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Python](Python/042.Trapping-Rain-Water.py) |hard|`dynamic programming`|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [C++](053.Maximum-Subarray.STL) |easy|`dynamic programming`|
+|55|[Jump Game](https://leetcode.com/problems/jump-game/) | [Python](Python/055.Jump-Game.py) |medium|`array` `dynamic programming` `greedy`|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/) | [Python](Python/062.Unique-Paths.py) |medium|`dynamic programming`|
 |63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [Python](Python/063.Unique-Paths-II.py) |medium|`dynamic programming`|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [C++](070.Climbing-Stairs.STL) |easy|`dynamic programming`|
