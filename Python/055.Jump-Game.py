@@ -39,7 +39,7 @@ class SolutionRecursive:
 
 
 # Solution 2: O(n^2); times out on the extreme use cases
-class Solution:
+class SolutionRange:
     def canJump(self, nums: List[int]) -> bool:
         n = len(nums)
         reachable = [False for i in range(n)]
@@ -52,9 +52,23 @@ class Solution:
                 try:
                     reachable[i+j] = True
                 except IndexError:
-                    pass
+                    break
 
         return reachable[n-1]
+
+
+# Solution 3: O(n)
+class Solution:
+    def canJump(self, nums: List[int]) -> bool:
+        max_reachable = 0
+
+        for i in range(len(nums)):
+            if max_reachable < i:
+                break
+            if nums[i] > 0:
+                max_reachable = max(max_reachable, nums[i] + i)
+
+        return max_reachable >= len(nums) - 1
 
 
 def use_case(nums: List[int], expected: bool):
