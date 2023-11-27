@@ -15,7 +15,7 @@ Input: matrix = [["0"]]
 Output: 0
 """
 
-from typing import List, Optional
+from typing import List
 
 
 # O(n^2) - works correctly, but times out on large arrays
@@ -24,15 +24,15 @@ class Solution:
     m = 0                              # number or rows
     n = 0                              # number of columns
     size = 0                           # maximum possible square size
-    cache: List[List[List[Optional[int]]]] = []  # saved checks
     maxSizeSoFar = 0                   # the maximum square we have seen so far
 
     def isSquareCached(self, top: int, left: int, size: int) -> bool:
-        result = self.cache[top][left][size - 1]
-        if result is None:
-            result = self.isSquare(top, left, size)
-            self.cache[top][left][size - 1] = result
-        return result
+        if self.matrix[top][left] >= size:
+            return True
+        if self.isSquare(top, left, size):
+            self.matrix[top][left] = size
+            return True
+        return False
 
     def isSquare(self, top: int, left: int, size: int) -> bool:
         # check whether the params make sense
@@ -45,23 +45,22 @@ class Solution:
         if top + size - 1 >= self.m or left + size - 1 >= self.n:
             return False
         # must have 1 in the top left
-        if self.matrix[top][left] != '1':
+        if self.matrix[top][left] == 0:
             return False
         # terminal case: if this is a 1-cell square, we are good
         if size == 1:
             return True
         # must have 1 in the bottom right as well
-        if self.matrix[top + size - 1][left + size - 1] != '1':
+        if self.matrix[top + size - 1][left + size - 1] == 0:
             return False
         return self.isSquareCached(top + 1, left, size - 1) and self.isSquareCached(top, left + 1, size - 1)
 
     def maximalSquare(self, matrix: List[List[str]]) -> int:
         # save the input data, calculate the dimensions
-        self.matrix = matrix
         self.m = len(matrix)
         self.n = len(matrix[0])
         self.size = min(self.m, self.n)
-        self.cache = [[[None for size in range(self.size)] for col in range(self.n)] for row in range(self.m)]
+        self.matrix = [[int(matrix[row][col]) for col in range(self.n)] for row in range(self.m)]
 
         # iterate over the matrix
         for i in range(self.m):
