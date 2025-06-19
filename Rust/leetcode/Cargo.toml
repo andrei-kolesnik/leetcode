@@ -1,0 +1,10 @@
+bin = [
+    { name = "001_Two_Sum", path = "src/001_Two_Sum.rs" },
+]
+
+[package]
+name = "leetcode"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
