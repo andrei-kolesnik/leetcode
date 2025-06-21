@@ -11,7 +11,7 @@ struct Solution;
 
 impl Solution {
     pub fn two_sum(nums: Vec<i32>, target: i32) -> Vec<i32> {
-        let mut map: std::collections::HashMap<i32, i32> = std::collections::HashMap::new();
+        let mut map: HashMap<i32, i32> = HashMap::new();
         for (i, num) in nums.iter().enumerate() {
             if let Some(j) = map.get(&num) {
                 return vec![*j, i as i32];

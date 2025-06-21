@@ -1,5 +1,6 @@
 bin = [
     { name = "001_Two_Sum", path = "src/001_Two_Sum.rs" },
+    { name = "009_Palindrome_Number", path = "src/009_Palindrome_Number.rs" },
 ]
 
 [package]
