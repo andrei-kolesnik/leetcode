@@ -1,0 +1,12 @@
+bin = [
+    { name = "001_Two_Sum", path = "001_Two_Sum.rs" },
+    { name = "009_Palindrome_Number", path = "009_Palindrome_Number.rs" },
+    { name = "014_Longest_Common_Prefix", path = "014_Longest_Common_Prefix.rs" },
+]
+
+[package]
+name = "leetcode"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
