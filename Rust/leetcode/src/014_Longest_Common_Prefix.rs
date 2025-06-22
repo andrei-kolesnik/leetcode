@@ -35,47 +35,29 @@ impl Solution {
     }
 }
 
-fn main() {}
+fn main() {
+    assert_eq!(
+        String::from("fl"),
+        Solution::longest_common_prefix(vec![
+            String::from("flower"),
+            String::from("flow"),
+            String::from("flight"),
+        ])
+    );
 
-#[cfg(test)]
-mod tests {
-    use super::*;
+    assert_eq!(
+        String::from(""),
+        Solution::longest_common_prefix(vec![
+            String::from("dog"),
+            String::from("racecar"),
+            String::from("car"),
+        ])
+    );
 
-    #[test]
-    fn example_1() {
-        assert_eq!(
-            String::from("fl"),
-            Solution::longest_common_prefix(
-                vec![
-                    String::from("flower"),
-                    String::from("flow"),
-                    String::from("flight"),
-                ]
-            )
-        );
-    }
+    assert_eq!(String::from(""), Solution::longest_common_prefix(vec![]));
 
-    #[test]
-    fn example_2() {
-        assert_eq!(
-            String::from(""),
-            Solution::longest_common_prefix(
-                vec![
-                    String::from("dog"),
-                    String::from("racecar"),
-                    String::from("car"),
-                ]
-            )
-        );
-    }
-
-    #[test]
-    fn test_empty_strs() {
-        assert_eq!(String::from(""), Solution::longest_common_prefix(vec![]));
-    }
-
-    #[test]
-    fn test_one_str() {
-        assert_eq!(String::from("car"), Solution::longest_common_prefix(vec![String::from("car")]));
-    }
+    assert_eq!(
+        String::from("car"),
+        Solution::longest_common_prefix(vec![String::from("car")])
+    );
 }

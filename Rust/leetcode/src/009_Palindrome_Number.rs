@@ -26,7 +26,9 @@ impl Solution {
         let mut reversed: i32 = 0;
         while x != 0 {
             // Handle potential overflow
-            if let Some(safely_reversed) = reversed.checked_mul(10).and_then(|r| r.checked_add(x % 10)) {
+            if let Some(safely_reversed) =
+                reversed.checked_mul(10).and_then(|r| r.checked_add(x % 10))
+            {
                 reversed = safely_reversed;
                 x /= 10;
             } else {
@@ -41,39 +43,11 @@ impl Solution {
     }
 }
 
-fn main() {}
-
-#[cfg(test)]
-mod tests {
-    use super::*;
-
-    #[test]
-    fn example_1() {
-        assert_eq!(true, Solution::is_palindrome(121));
-    }
-
-    #[test]
-    fn example_2() {
-        assert_eq!(false, Solution::is_palindrome(-121));
-    }
-
-    #[test]
-    fn example_3() {
-        assert_eq!(false, Solution::is_palindrome(10));
-    }
-
-    #[test]
-    fn test_for_0() {
-        assert_eq!(true, Solution::is_palindrome(0));
-    }
-
-    #[test]
-    fn test_for_max_input() {
-        assert_eq!(false, Solution::is_palindrome(i32::MAX)); // 2^31-1 = 2_147_483_647
-    }
-
-    #[test]
-    fn test_for_min_input() {
-        assert_eq!(false, Solution::is_palindrome(i32::MIN)); // -2^31 = -2_147_483_648
-    }
+fn main() {
+    assert_eq!(true, Solution::is_palindrome(121));
+    assert_eq!(false, Solution::is_palindrome(-121));
+    assert_eq!(false, Solution::is_palindrome(10));
+    assert_eq!(true, Solution::is_palindrome(0));
+    assert_eq!(false, Solution::is_palindrome(i32::MAX)); // 2^31-1 = 2_147_483_647
+    assert_eq!(false, Solution::is_palindrome(i32::MIN)); // -2^31 = -2_147_483_648
 }

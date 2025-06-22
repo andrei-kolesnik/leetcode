@@ -22,24 +22,8 @@ impl Solution {
     }
 }
 
-fn main() {}
-
-#[cfg(test)]
-mod tests {
-    use super::*;
-
-    #[test]
-    fn example_1() {
-        assert_eq!(vec![0, 1], Solution::two_sum(vec![2, 7, 11, 15], 9));
-    }
-
-    #[test]
-    fn example_2() {
-        assert_eq!(vec![1, 2], Solution::two_sum(vec![3, 2, 4], 6));
-    }
-
-    #[test]
-    fn example_3() {
-        assert_eq!(vec![0, 1], Solution::two_sum(vec![3, 3], 6));
-    }
+fn main() {
+    assert_eq!(vec![0, 1], Solution::two_sum(vec![2, 7, 11, 15], 9));
+    assert_eq!(vec![1, 2], Solution::two_sum(vec![3, 2, 4], 6));
+    assert_eq!(vec![0, 1], Solution::two_sum(vec![3, 3], 6));
 }
